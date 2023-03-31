@@ -1,0 +1,10 @@
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\bin\Debug\RealCalculator.exe.config
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\bin\Debug\RealCalculator.exe
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\bin\Debug\RealCalculator.pdb
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\obj\Debug\RealCalculator.Form1.resources
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\obj\Debug\RealCalculator.Properties.Resources.resources
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\obj\Debug\RealCalculator.csproj.GenerateResource.cache
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\obj\Debug\RealCalculator.exe
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\obj\Debug\RealCalculator.pdb
+C:\Users\simon.fredriksson\source\repos\RealCalculator\RealCalculator\obj\Debug\RealCalculator.csproj.AssemblyReference.cache
